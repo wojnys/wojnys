@@ -6,4 +6,5 @@
   <img align="center" alt="Coding" width="100" src="./learn-java-with-ubiqum-logo.png">
   <img align="center" alt="Coding" width="100" src="./nodejs_logo.png">
   <img align="center" alt="Coding" width="100" src="./react.png">
+    <img align="center" alt="Coding" width="100" src="./next.png">
 </div>
