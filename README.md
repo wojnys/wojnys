@@ -1,5 +1,5 @@
-## Hi, I am Dominik Wojnar - Full Stack Developer
-<div>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<h2>Hi, I am Dominik Wojnar - Full Stack Developer</h2>
+<div align="center">
+  <img align="right" alt="Coding" width="100" src="=">
 
 </div>
