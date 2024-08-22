@@ -36,8 +36,6 @@
   </ul>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojnys&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr> </hr>
   <div id="bio">
   <h2>Experience</h2>
