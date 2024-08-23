@@ -5,6 +5,7 @@
   <img align="center" alt="Coding" width="60" src="./download.png">
   <img align="center" alt="Coding" width="60" src="./learn-java-with-ubiqum-logo.png">
   <img align="center" alt="Coding" width="60" src="./nodejs_logo.png">
+  <img align="center" alt="Coding" width="90" src="https://seekvectors.com/files/download/Typescript-01.png">
   <img align="center" alt="Coding" width="60" src="./react.png">
   <img align="center" alt="Coding" width="60" src="./next.png">
   <img align="center" alt="Coding" width="60" src="./spring.png">
