@@ -13,6 +13,8 @@
 <h2>Where you find me </h2>
 <hr> </hr>
 
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wojnys)](https://github.com/wojnys/autoskolyportalnextjs) -->
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/dominik-wojnar-168a9521b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
