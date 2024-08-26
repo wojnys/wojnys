@@ -43,27 +43,26 @@
   <div id="bio">
   <h2>Experience</h2>
     <div>
-      <img src="./2022" />
-      <img src="https://pngimg.com/uploads/2022_year/2022_year_PNG4.png" height="50" wifth="20" alt="vertical line" />
+      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
+      <img src="./2022.png" />
       <p>3 months intership as web developer in Profiq Company</p>
     </div>
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-      <img src="https://png.pngtree.com/png-clipart/20220716/ourmid/pngtree-2023-new-year-bicolor-font-3d-rendering-png-image_233337.png" height="50" wifth="20" alt="vertical line" />
-<!--       <p>2023</p> -->
-      <p>Months intership as web developer in Digiday company</p>
+      <img src="./2023.png" />
+      <p>6 Months intership as web developer in Digiday company</p>
     </div>
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-      <img src="https://png.pngtree.com/png-clipart/20230109/original/pngtree-2024-clipart-in-pink-png-image_8891438.png" height="50" wifth="20" alt="vertical line" />
-<!--       <p>2024</p> -->
+      <img src="./2024.png" />
       <p>Summer part-job as React developer in K2 Company</p>
     </div>
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-      <img src="https://png.pngtree.com/png-clipart/20230109/original/pngtree-2024-clipart-in-pink-png-image_8891438.png" height="50" wifth="20" alt="vertical line" />
-<!--       <p>2024</p> -->
-      <p>Currently I am working as fullstack developer in Aricoma</p>
+        <img src="./2024.png" />
+      <p>
+        <b>Currently I am working as fullstack developer in Aricoma</b>
+      </p>
     </div>
 </div>
 </div>
