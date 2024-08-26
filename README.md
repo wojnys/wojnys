@@ -45,31 +45,25 @@
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
       <img src="https://pngimg.com/uploads/2022_year/2022_year_PNG4.png" height="50" wifth="20" alt="vertical line" />
-      <p>I have worked in company Profiq as web developer</p>
-      <p>I was developing car app for renting and managing reservation/p>
-      <p>Flask and Javascript</p>
+      <p>3 months intership as web developer in Profiq Company</p>
     </div>
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
       <img src="https://png.pngtree.com/png-clipart/20220716/ourmid/pngtree-2023-new-year-bicolor-font-3d-rendering-png-image_233337.png" height="50" wifth="20" alt="vertical line" />
 <!--       <p>2023</p> -->
-      <p>I have worked in company Digiday</p>
-      <p>I was writing scripts for getting data from websites in PHP</p>
-      <p>I was also writing smaller web apps in vanilla javascript</p>
+      <p>Months intership as web developer in Digiday company</p>
     </div>
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
       <img src="https://png.pngtree.com/png-clipart/20230109/original/pngtree-2024-clipart-in-pink-png-image_8891438.png" height="50" wifth="20" alt="vertical line" />
 <!--       <p>2024</p> -->
-      <p>I have worked in company K2</p>
-      <p>K2 I started as ERP konsultant</p>
-      <p>Then I moved forward and I was developing web app in React</p>
+      <p>Summer part-job as React developer in K2 Company</p>
     </div>
     <div>
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
       <img src="https://png.pngtree.com/png-clipart/20230109/original/pngtree-2024-clipart-in-pink-png-image_8891438.png" height="50" wifth="20" alt="vertical line" />
 <!--       <p>2024</p> -->
-      <p>Currently I am working as web developer in Aricoma</p>
+      <p>Currently I am working as fullstack developer in Aricoma</p>
     </div>
 </div>
 </div>
