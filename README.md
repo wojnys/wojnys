@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Dominik Wojnar - Full Stack Developer</h2>
+<h2 align="center">Hi, I am Dominik Wojnar - Full Stack Developer and Bitcoiner</h2>
 <div align="center">
   <img align="center" alt="Coding" width="60" src="./Postgresql_elephant.svg.png">
   <img align="center" alt="Coding" width="60" src="./Python-logo-notext.svg.png">
@@ -9,6 +9,7 @@
   <img align="center" alt="Coding" width="60" src="./react.png">
   <img align="center" alt="Coding" width="60" src="./next.png">
   <img align="center" alt="Coding" width="60" src="./spring.png">
+  <img align="center" alt="Coding" width="60" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png">
 </div>
 
 <h2>Where you find me </h2>
