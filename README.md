@@ -43,7 +43,7 @@
   <div id="bio">
   <h2>Experience</h2>
     <div>
-      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
+      <img src="./2022" />
       <img src="https://pngimg.com/uploads/2022_year/2022_year_PNG4.png" height="50" wifth="20" alt="vertical line" />
       <p>3 months intership as web developer in Profiq Company</p>
     </div>
