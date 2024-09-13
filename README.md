@@ -66,7 +66,7 @@
       <p>
         <b>Currently I am working as full-stack developer in Aricoma</b>
         <br>
-        <b>I am working in ASP .NET for CZECHTRADE</b>
+        <b>I am working in ASP .NET on CZECHTRADE project</b>
         <ul>
           <li>REACT</li>
           <li>ASP .NET</li>
