@@ -32,6 +32,7 @@
   <div id="bio">
 <div style="height:20px; background-color:red;"></div>
   <ul>
+    <li>🏛My goal is become software engineer architect - tell people how to write and how to build applications and software solutions</li>
     <li>🎋 I like to write web applications and websites in Typescript, React and Next JS.</li>
     <li>🧱 I am learing also .NET and Spring Boot</li>
     <li>🎒  Now I mainly focus on web application development</li>
@@ -65,7 +66,7 @@
       <p>
         <b>Currently I am working as full-stack developer in Aricoma</b>
         <br>
-        <b>I ma working in ASP .NET for CZECHTRADE</b>
+        <b>I am working in ASP .NET for CZECHTRADE</b>
         <ul>
           <li>REACT</li>
           <li>ASP .NET</li>
