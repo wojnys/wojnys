@@ -64,12 +64,13 @@
         <img src="./2024.png" />
       <p>
         <b>Currently I am working as full-stack developer in Aricoma</b>
+        </hr>
         <b>I ma working in ASP .NET for CZECHTRADE</b>
         <ul>
-          <li>REACT/li>
-          <li>ASP .NET/li>
-          <li>AZURE/li>
-          <li>MICROSOFT POWER PLATFORMS/li>
+          <li>REACT</li>
+          <li>ASP .NET</li>
+          <li>AZURE</li>
+          <li>MICROSOFT POWER PLATFORMS</li>
         </ul>
       </p>
     </div>
