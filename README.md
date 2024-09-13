@@ -10,6 +10,7 @@
   <img align="center" alt="Coding" width="60" src="./next.png">
   <img align="center" alt="Coding" width="60" src="./spring.png">
   <img align="center" alt="Coding" width="60" src="https://cryptologos.cc/logos/bitcoin-btc-logo.png">
+  <img align="center" alt="Coding" width="60" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg">
 </div>
 
 <h2>Where you find me </h2>
@@ -62,7 +63,14 @@
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
         <img src="./2024.png" />
       <p>
-        <b>Currently I am working as fullstack developer in Aricoma</b>
+        <b>Currently I am working as full-stack developer in Aricoma</b>
+        <b>I ma working in ASP .NET for CZECHTRADE</b>
+        <ul>
+          <li>REACT/li>
+          <li>ASP .NET/li>
+          <li>AZURE/li>
+          <li>MICROSOFT POWER PLATFORMS/li>
+        </ul>
       </p>
     </div>
 </div>
