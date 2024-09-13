@@ -64,7 +64,7 @@
         <img src="./2024.png" />
       <p>
         <b>Currently I am working as full-stack developer in Aricoma</b>
-        </hr>
+        <br>
         <b>I ma working in ASP .NET for CZECHTRADE</b>
         <ul>
           <li>REACT</li>
