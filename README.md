@@ -64,9 +64,7 @@
       <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
         <img src="./2024.png" />
       <p>
-        <b>Currently I am working as full-stack developer in Aricoma</b>
-        <br>
-        <b>I am working in ASP .NET on CZECHTRADE project</b>
+        <b>Full-stack developer in Aricoma</b>
         <ul>
           <li>REACT</li>
           <li>ASP .NET</li>
