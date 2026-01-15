@@ -36,10 +36,10 @@
     <li>🎋 I like to write web applications and websites in Typescript, React and Next JS.</li>
     <li>💢  Software engineering is my passion  </li>
     <li>🤖I like to solve problems and find optimal solutions </li>
-    <li>🏛I am currently working on AI projects related to AI automation and AJ Agents</li>
-    <li>I’m interested in AI, AI agents and software development <li>
-    <li>🌱 I’m currently learning AI agents <li>
-    <li>💞️ I’m looking to collaborate on AI projects <li>
+    <li>🏛I am currently working on AI projects related to AI automation and AI Agents </li>
+    <li>I’m interested in AI, AI agents and software development </li>
+    <li>🌱 I’m currently learning AI agents </li>
+    <li>💞️ I’m looking to collaborate on AI projects </li>
   </ul>
 </div>
 
