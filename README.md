@@ -55,8 +55,7 @@
       <p>6 Months intership as web developer in Digiday company</p>
     </div>
     <div>
-      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-      <img src="./2024.png" />
+             <h3> 2024 </h3>
       <p>Summer part-job as React developer in K2 Company</p>
     </div>
     <div>
