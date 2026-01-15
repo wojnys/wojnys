@@ -34,11 +34,12 @@
   <ul>
     <li>🏛My goal is become software engineer architect - tell people how to write and how to build applications and software solutions</li>
     <li>🎋 I like to write web applications and websites in Typescript, React and Next JS.</li>
-    <li>🧱 I am learing also .NET and Spring Boot</li>
-    <li>🎒  Now I mainly focus on web application development</li>
     <li>💢  Software engineering is my passion  </li>
     <li>🤖I like to solve problems and find optimal solutions </li>
-    <li>🏛I am currently working on a Next JS + Postgres project</li>
+    <li>🏛I am currently working on AI projects related to AI automation and AJ Agents/li>
+     <li> I’m interested in AI, AI agents and software development <li>
+    <li> 🌱 I’m currently learning AI agents <li>
+    <li> 💞️ I’m looking to collaborate on AI projects <li>
   </ul>
 </div>
 
@@ -70,6 +71,20 @@
           <li>ASP .NET</li>
           <li>AZURE</li>
           <li>MICROSOFT POWER PLATFORMS</li>
+        </ul>
+      </p>
+    </div>
+     <div>
+      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
+        <img src="./2024.png" />
+      <p>
+        <b>Full-stack developer and AI developer in Synthreo</b>
+        <ul>
+          <li>Python</li>
+          <li>ASP .NET</li>
+          <li>AZURE</li>
+          <li>React</li>
+          <li>OpenAi api</li>
         </ul>
       </p>
     </div>
