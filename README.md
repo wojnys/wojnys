@@ -36,10 +36,10 @@
     <li>🎋 I like to write web applications and websites in Typescript, React and Next JS.</li>
     <li>💢  Software engineering is my passion  </li>
     <li>🤖I like to solve problems and find optimal solutions </li>
-    <li>🏛I am currently working on AI projects related to AI automation and AJ Agents/li>
-     <li> I’m interested in AI, AI agents and software development <li>
-    <li> 🌱 I’m currently learning AI agents <li>
-    <li> 💞️ I’m looking to collaborate on AI projects <li>
+    <li>🏛I am currently working on AI projects related to AI automation and AJ Agents</li>
+    <li>I’m interested in AI, AI agents and software development <li>
+    <li>🌱 I’m currently learning AI agents <li>
+    <li>💞️ I’m looking to collaborate on AI projects <li>
   </ul>
 </div>
 
@@ -47,13 +47,11 @@
   <div id="bio">
   <h2>Experience</h2>
     <div>
-      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-      <img src="./2022.png" />
+            <h3> 2023 </h3>
       <p>3 months intership as web developer in Profiq Company</p>
     </div>
     <div>
-      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-      <img src="./2023.png" />
+            <h3> 2023 </h3>
       <p>6 Months intership as web developer in Digiday company</p>
     </div>
     <div>
@@ -62,8 +60,7 @@
       <p>Summer part-job as React developer in K2 Company</p>
     </div>
     <div>
-      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-        <img src="./2024.png" />
+            <h3> 2024  </h3>
       <p>
         <b>Full-stack developer in Aricoma</b>
         <ul>
@@ -75,8 +72,7 @@
       </p>
     </div>
      <div>
-      <img src="https://www.pngplay.com/wp-content/uploads/8/Vertical-Line-No-Background.png" height="50" wifth="20" alt="vertical line" />
-        <img src="./2024.png" />
+      <h3> 2025 ->  </h3>
       <p>
         <b>Full-stack developer and AI developer in Synthreo</b>
         <ul>
